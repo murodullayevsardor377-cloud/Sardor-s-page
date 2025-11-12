@@ -7,6 +7,9 @@ print("yoshi:", yosh)
 
 c = 313232
 d = 3920303
+
+
+
 print("kopaytma:", c * d)
 print("ayirma:", c - d)
 print("bo'luvchi:",c / d)
